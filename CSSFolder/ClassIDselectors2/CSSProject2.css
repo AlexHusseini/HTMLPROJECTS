@@ -1,0 +1,18 @@
+.odd {
+    background-color: red;
+    color: black;  
+    font-family: Verdana, "DejaVU Sans", sans-serif;
+}
+#uniqueeven {
+    color: blue;
+    font-size: 36px;
+}
+.special {
+    font-size: 24px;
+}
+#unique4 {
+    background-color: lightgreen;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
